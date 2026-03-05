@@ -1,7 +1,7 @@
 # Quantile2SpaceTime
 ML quantiles → latent Gaussian fields → coherent spatio-temporal simulation
 
-[![DOI](https://joss.theoj.org/papers/10.21105/joss.09605/status.svg)](https://hal.science/hal-05441043/)
+[![HAL](https://img.shields.io/badge/HAL-hal--05441043-B03532)](https://hal.science/hal-05441043/)
 
 A research codebase for **modeling and simulating spatio-temporal processes** by combining  
 **machine-learning quantile regression** with **latent Gaussian random fields (GRFs)**.
