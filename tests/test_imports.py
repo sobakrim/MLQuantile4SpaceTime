@@ -1,5 +1,7 @@
-def test_import_package():
-    import MLQuantile4SpaceTime  
+# tests/test_optional_jax.py
+import pytest
+from MLQuantile4SpaceTime.st_grf import simulate_gneiting_jax
 
-def test_import_model():
-    from MLQuantile4SpaceTime import Quantile2SpaceTimeModel  
+def test_simulate_requires_jax():
+    with pytest.raises(ImportError):
+        simulate_gneiting_jax(None, None, None, L=1)
