@@ -1,7 +1,7 @@
 import pytest
 import numpy as np
 
-from mlq4s.st_grf import simulate_gneiting_jax
+from mlq4st.st_grf import simulate_gneiting_jax
 
 
 def test_simulate_gneiting_jax_runs_small():
