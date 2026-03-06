@@ -5,7 +5,7 @@ from pathlib import Path
 HERE = Path(__file__).parent
 
 setup(
-    name="mlq4s",
+    name="mlq4st",
     version="0.1.0",
     description="ML quantiles → latent Gaussian fields → coherent spatio-temporal simulation",
     long_description=(HERE / "README.md").read_text(encoding="utf-8") if (HERE / "README.md").exists() else "",
