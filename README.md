@@ -4,8 +4,7 @@ Machine-learning quantile regression for space-time processes
 [![HAL](https://img.shields.io/badge/HAL-hal--05441043-B03532)](https://hal.science/hal-05441043/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**MLQuantile4SpaceTime** is a Python package for **conditional distribution modeling** and **simulation of spatio-temporal processes**.  
-It combines **machine-learning quantile regression** (to learn non-Gaussian, covariate-dependent marginals) with a **latent Gaussian random field (GRF)** (to enforce coherent space-time dependence), enabling end-to-end **fit → simulate → invert** workflows.
+**MLQuantile4SpaceTime** is a Python package for **conditional distribution modeling** and **simulation of spatio-temporal processes**. It combines **machine-learning quantile regression** (to learn non-Gaussian, covariate-dependent marginals) with a **latent Gaussian random field (GRF)** (to enforce coherent space-time dependence).
 
 ---
 
