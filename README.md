@@ -1,6 +1,8 @@
 # MLQuantile4SpaceTime : Machine Learning Quantile regression and latent Gaussian random fields for Space-Time processes
 
 [![HAL](https://img.shields.io/badge/HAL-hal--05441043-B03532)](https://hal.science/hal-05441043/)
+[![image](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 A research codebase for **modeling and simulating spatio-temporal processes** by combining  
 **machine-learning quantile regression** with **latent Gaussian random fields (GRFs)**.
